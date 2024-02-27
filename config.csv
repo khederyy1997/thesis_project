@@ -1,0 +1,6 @@
+zmq_connectstring, tcp://127.0.0.1:5000
+zmq_hands_connectstring, tcp://127.0.0.1:5557
+whiteboard_ip, 151.100.179.28
+whiteboard_port, 11000
+modelfile, trained_model.sav
+camera_id, 1

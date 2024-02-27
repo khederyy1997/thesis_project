@@ -1,0 +1,1 @@
+venv/Scripts/pyinstaller .\main_handstracking.py --collect-submodules "mediapipe" --collect-submodules "opencv-python" --add-data "config.csv;./" --add-data "venv\Lib\site-packages\mediapipe\modules;./mediapipe/modules"
