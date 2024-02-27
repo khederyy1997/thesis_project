@@ -129,7 +129,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/0_data/csv/out*
+
 /0_data/groundtruth
 /0_data/*fps
 /0_data/predictions
